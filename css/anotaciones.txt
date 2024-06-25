@@ -1,0 +1,17 @@
+acomodar en celular el h2 que es lo de rosario
+servicios interior, exterior, impermeabilizaciones, intalacciones de aparatos
+
+crear img rodillo
+terminar footer
+crear iconos servicios
+
+crear paginas de servicios:interior, exterior, impermeabilizaciones, intalacciones de aparatos
+crear contacto
+crear sobre nosotros
+
+
+hacerlo responsive
+
+scroll por pantallas
+
+github pages
